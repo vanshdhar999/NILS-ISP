@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{Problem Formulation}{3}{0}{1}
+\beamer@sectionintoc {2}{ADF Framework}{5}{0}{2}
+\beamer@sectionintoc {3}{TransApp Architecture}{9}{0}{3}
+\beamer@sectionintoc {4}{Two-Step Training Process}{13}{0}{4}
+\beamer@sectionintoc {5}{Results and Conclusions}{18}{0}{5}
